@@ -17,7 +17,7 @@ final class StripePaymentService {
     // MARK: - Backend
 
     private let paymentSheetURL = URL(
-        string: "http://10.211.245.40:3000/payment-sheet"
+        string: "http://192.168.1.9:3000/payment-sheet"
     )!
 
     // MARK: - Response

@@ -81,8 +81,6 @@ private extension MoviesView {
             showMovieDetails = true
         }
     }
-    
-    // Improved Movies UI
 }
 
 // MARK: - Header
